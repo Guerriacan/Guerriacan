@@ -21,6 +21,9 @@
 
     
   ## Stats :
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Guerriacan&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guerriacan&count_private=true&show_icons=true&theme=vision-friendly-dark" />
 </a>
